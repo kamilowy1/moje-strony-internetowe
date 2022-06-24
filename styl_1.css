@@ -1,0 +1,90 @@
+body
+{
+ font-family: Georgia;
+ margin: 0 auto;
+ 
+}
+
+#kontener
+{
+	width: 175%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#blokbanera
+{
+padding: 10px;
+background-color: DodgerBlue;
+text-align: center;
+color: white;
+}
+
+
+#blokgłówny
+{
+	background-color: LightBlue;
+	padding: 100px;
+	height: 420px;
+}
+
+#lewy
+{
+	float: left;
+	background-color: DodgerBlue;
+	color: white;
+    height: 220px;
+	width: 20%;
+	
+}
+
+#środkowy
+{ 
+    float: left;
+	background-color: DodgerBlue;
+	color: white;
+	width: 40%;
+	height: 220px;
+	text-align: center;
+	
+}
+
+#prawy
+{
+	float: left;
+	background-color: DodgerBlue;
+	color: white;
+	width: 40%;
+	height: 220px;
+	text-align: center;
+	
+	
+}
+
+#stopka 
+{
+	clear: both;
+}
+
+.karta
+{
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-right-style: dotted;
+	
+	border-top-color: DimGray;
+	border-bottom-color: DimGray;
+	border-left-color: DimGray;
+	border-right-color: DimGray;
+	background-color: Gold;
+	
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	
+	border-width: 1px;
+}
+
